@@ -112,7 +112,7 @@ These instructions will get you a copy of the project and deploy your portfolio 
 
 - **Base Value:** Open `vite.config.js`, and change `base`'s value.
 
-  - If you are deploying to `https://<USERNAME>.github.io`, set `base` to `'/'`.
+  - If you are deployingg to `https://<USERNAME>.github.io`, set `base` to `'/'`.
 
   - If you are deploying to `https://<USERNAME>.github.io/<REPO_NAME>` (e.g. `https://<USERNAME>.github.io/portfolio`), then set `base` to `'/<REPO_NAME>/'` (e.g. `'/portfolio/'`).
 
